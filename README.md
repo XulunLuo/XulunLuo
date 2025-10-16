@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Xulun (Field) Luo
 
-**🎮 Software Engineer | Creative Technologist | XR Developer**
+**🎮 Software Engineer | Creative Technologist**
 
 🎓 M.E.T. Student @ Carnegie Mellon University (ETC) | B.A. in CS + Film @ NYU  
 📍 Pittsburgh, PA  
