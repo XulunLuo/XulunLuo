@@ -46,21 +46,4 @@ I love working with **real-time engines**, **physical hardware**, and **experime
 ![Adobe](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=flat&logo=adobe&logoColor=white)
 ![Avid](https://img.shields.io/badge/-Avid%20Media%20Composer-00012C?style=flat&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Field's GitHub stats](https://github-readme-stats.vercel.app/api?username=FieldLuo0728&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FieldLuo0728&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xulunl@andrew.cmu.edu)
-
----
-
 *Feel free to explore my repositories — always happy to collaborate on creative tech projects!* 🚀
