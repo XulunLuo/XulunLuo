@@ -37,7 +37,7 @@ I love working with **real-time engines**, **physical hardware**, and **experime
 ![OptiTrack](https://img.shields.io/badge/-OptiTrack-FF6B35?style=flat&logoColor=white)
 
 **Specializations:**  
-`Virtual Production` • `XR Interaction` • `Real-Time Systems` • `Sensor Fusion` • `UWB/IMU Integration`
+`Virtual Production` • `XR Interaction` • `Real-Time Systems` • `Sensor Fusion` 
 
 **Tools & Other:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
