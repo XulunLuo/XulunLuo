@@ -36,6 +36,9 @@ I love working with **real-time engines**, **physical hardware**, and **experime
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![OptiTrack](https://img.shields.io/badge/-OptiTrack-FF6B35?style=flat&logoColor=white)
+![Xbox Adaptive Controller](https://img.shields.io/badge/-Xbox%20Adaptive%20Controller-107C10?style=flat&logo=xbox&logoColor=white)
+![Meta Quest 3](https://img.shields.io/badge/-Meta%20Quest%203-0467DF?style=flat&logo=meta&logoColor=white)
+
 
 **Specializations:**  
 `Virtual Production` • `XR Interaction` • `Real-Time Systems` • `Sensor Fusion` 
